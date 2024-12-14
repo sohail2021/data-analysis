@@ -1,5 +1,4 @@
 this is a sample file from sample1
 this is second line.
-<<<<<<< HEAD
 this is updated.
 this is third line.
