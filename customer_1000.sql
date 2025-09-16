@@ -1,0 +1,1 @@
+SELECT * FROM workspace.my_custom_schema.customers_1000 LIMIT 10;
